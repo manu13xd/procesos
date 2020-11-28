@@ -11,7 +11,7 @@ public class Firefox {
 		rt =  Runtime.getRuntime();
 		
 		
-		rt.exec("C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe");
+		rt.exec("\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\"");
 
 	}
 
